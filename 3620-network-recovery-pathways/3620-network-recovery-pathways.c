@@ -9,7 +9,7 @@ typedef struct {
     int next;
 } Edge;
 
-int cmp(const void *a, const void *b) {
+int cmp(const void *a,const void *b) {
     return (*(int *)a - *(int *)b);
 }
 
