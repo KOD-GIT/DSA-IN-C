@@ -1,23 +1,21 @@
-long long sumAndMultiply(int n) {
-    if (n == 0) return 0;
+#include <assert.h>
 
-    int digits[10];
-    int len = 0;
+long long sumAndMultiply(int n) {
+    assert(0 <= n);
+
+    long long nnz = 0;
+    long long digsum = 0;
+    long long mul10 = 1;
 
     while (n > 0) {
-        digits[len++] = n % 10;
-        n /= 10;
-    }
-
-    long long x = 0;
-    int sum = 0;
-
-    for (int i = len - 1; i >= 0; i--) {
-        if (digits[i] != 0) {
-            x = x * 10 + digits[i];
-            sum += digits[i];
+        if (n%10 != 0) {
+            nnz = mul10*(n%10) + nnz;
+            digsum += n%10;
+            mul10 *= 10;
         }
+
+        n = n/10;
     }
 
-    return x * sum;
+    return digsum*nnz;
 }
