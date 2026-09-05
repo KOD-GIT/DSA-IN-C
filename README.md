@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/KOD-GIT/DSA-IN-C/tree/master/4256-construct-uniform-parity-array-i) |
+| [4285-smallest-stable-index-ii](https://github.com/KOD-GIT/DSA-IN-C/tree/master/4285-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3312-sorted-gcd-pair-queries) |
+| [4285-smallest-stable-index-ii](https://github.com/KOD-GIT/DSA-IN-C/tree/master/4285-smallest-stable-index-ii) |
 ## String
 |  |
 | ------- |
