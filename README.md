@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/KOD-GIT/DSA-IN-C/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1331-rank-transform-of-an-array) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KOD-GIT/DSA-IN-C/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3312-sorted-gcd-pair-queries) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1331-rank-transform-of-an-array) |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Game Theory
 |  |
