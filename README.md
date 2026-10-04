@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/KOD-GIT/DSA-IN-C/tree/master/0678-valid-parenthesis-string) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/KOD-GIT/DSA-IN-C/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2039-sum-game](https://github.com/KOD-GIT/DSA-IN-C/tree/master/2039-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KOD-GIT/DSA-IN-C/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -125,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/KOD-GIT/DSA-IN-C/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/KOD-GIT/DSA-IN-C/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KOD-GIT/DSA-IN-C/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2039-sum-game](https://github.com/KOD-GIT/DSA-IN-C/tree/master/2039-sum-game) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/KOD-GIT/DSA-IN-C/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KOD-GIT/DSA-IN-C/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/KOD-GIT/DSA-IN-C/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
